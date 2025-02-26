@@ -1,2 +1,19 @@
 # Restaurant Menu Management System!
-The "Restaurant Menu Management System" is a console-based Java application designed to manage the menu and order processing for a restaurant. The project aims to provide a structured interface for customers to choose from different menu categories, such as soups, biryanis, starters, family packs, and kebabs. Customers can select items, specify quantities, and calculate the total bill in a simple, interactive manner. This project demonstrates an understanding of Java programming concepts like loops, conditionals, switches, user input handling, and basic arithmetic operations. It is a useful tool for simulating a restaurant ordering system, providing a hands-on experience in software development for point-of-sale (POS) systems.
+Objective:
+The Restaurant Menu Management System is a Java-based console application designed to simulate a restaurant's menu ordering process. It provides a simple and interactive interface that allows customers to select menu items, specify quantities, and calculate their total bill. The program features multiple categories such as Soups, Biryani, Starters, Family Packs, and Kebabs, each with its own pricing structure. This system helps streamline the order selection process and efficiently calculates the bill based on user input.
+
+Features:
+Menu Categories: Soups, Hyderabad Dum Biryani, Family Jumbo Pack, Starters, Veg Starters, Tandoori Kebabs, and Veg Kebabs.
+Dynamic Pricing: Prices for each menu item are predefined and are multiplied by the number of plates selected by the customer.
+Flexible Order System: Users can select multiple items from different menu categories and calculate the total cost.
+User-Friendly Interface: A simple console-based interface for easy interaction with the system.
+Order Repetition: Users can repeat or exit individual menu sections.
+Technologies Used:
+Java: Core Java programming language to implement the menu system and user interaction logic.
+Scanner Class: Used to capture user input for menu selection and quantity.
+How to Use:
+Run the program to view the available menu categories.
+Select a category (e.g., Soups, Biryani, etc.) by entering the corresponding number.
+Choose an item from the selected menu and input the number of plates you wish to order.
+Repeat the process for other menu categories if desired.
+The system will display the total bill for your order at the end.
